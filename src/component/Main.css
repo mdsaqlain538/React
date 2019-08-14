@@ -1,0 +1,42 @@
+.main{
+    margin-left: 38px;
+}
+
+.h1
+{
+    font-size: 70px;
+}
+
+.p{
+    font-size: 35px;
+}
+.spec{
+    font-size: 28px;
+}
+
+.form input
+{
+    margin:10px 0;
+    padding: 16px 28px;
+    border: 1px solid black;
+}
+
+.form input[type=submit]
+{
+    background-color: black;
+    color: #fff;
+}
+
+.p2
+{
+    color: rgb(247, 231, 10);
+}
+.p3
+{
+    color: rgb(247, 231, 10);
+}
+.p
+{
+    color: orange;
+}
+

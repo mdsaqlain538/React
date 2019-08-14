@@ -1,0 +1,15 @@
+.footer{
+    text-align: center;
+    background-color: firebrick;
+    font-size: 20px;
+    color: aliceblue;
+}
+
+.bt
+{
+    padding: 9px 18px;
+    color: aliceblue;
+    color: black;
+    border-radius: 26px;
+    margin: 26px;
+}
